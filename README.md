@@ -20,6 +20,9 @@
 ## 📂 Projects
 ### 🧠 [Desktop Voice Assistant](https://github.com/AnsumanDalei/desktop-voice-assistant)
 AI assistant that performs tasks via voice commands like Wikipedia search, email, etc.
+### https://ansumandalei.github.io/ansuman-portfolio/
+Live personal portfolio website built with HTML, CSS, JS — hosted on GitHub Pages.
+
 
 ---
 
