@@ -3,7 +3,7 @@
 🎓 Final Year B.Tech CSE (AI) Student at GITA Autonomous College, Bhubaneswar  
 💻 Passionate about Artificial Intelligence, Python, and Web Development  
 🚀 Building real-world projects & actively preparing for software engineering roles  
-📫 Reach me: [ansumandalei@gmail.com](mailto:ansumandalei@gmail.com)  
+📫 Reach me: [ansumandalei2005@gmail.com](mailto:ansumandalei2005@gmail.com)  
 🌐  Check out my [Portfolio Website](https://ansumandalei.github.io/ansuman-portfolio/)
 
 ---
