@@ -4,16 +4,16 @@
 💻 Passionate about Artificial Intelligence, Python, and Web Development  
 🚀 Building real-world projects & actively preparing for software engineering roles  
 📫 Reach me: [ansumandalei@email.com](mailto:ansumandalei@email.com)  
-🌐 Portfolio coming soon...
+🌐  Check out my [Portfolio Website](https://ansumandalei.github.io/ansuman-portfolio/)
 
 ---
 
 ## 🛠️ Skills
-* **Programming Languages:** Python, C  
-* **AI & ML:** scikit-learn, OpenCV, SpeechRecognition, NLP  
-* **Web Development:** HTML, CSS, Flask  
-* **Tools:** Git, GitHub, Google Colab, Jupyter Notebook  
-* **Other:** Streamlit, Tkinter, VS Code
+Programming Languages: Python, C, Java  
+AI & ML: scikit-learn, OpenCV, SpeechRecognition, NLP  
+Web Development: HTML, CSS, Javascript  
+Tools: GitHub, Google Colab, Jupyter Notebook  
+Other: VS Code
 
 ---
 
